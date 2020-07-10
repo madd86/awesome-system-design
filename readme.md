@@ -48,10 +48,32 @@
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) - Good article about distributed systems as well as some of the potential tools.
 
+-------
+
 # Books
 
-- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) - Book that talks about disitributed systems as well as lightly demonstrating some code of what it looks like.
+- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services (Paid)](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) - Book that talks about disitributed systems as well as lightly demonstrating some code of what it looks like.
 
-- [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_14_t_0/140-0179130-4076567?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=e1f26397-6b89-4ffe-923f-21ad2d124b7a&pd_rd_w=7kW0U&pd_rd_wg=HYohZ&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=FC1XXD2Q6DDAJ4Z1RN2K&psc=1&refRID=FC1XXD2Q6DDAJ4Z1RN2K) - Goes in depth to explain various resources we use when working with distributed systems, as well as how it came to be and what problems it aims to solve.
+- [Designing Data Intensive Applications (Paid)](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_14_t_0/140-0179130-4076567?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=e1f26397-6b89-4ffe-923f-21ad2d124b7a&pd_rd_w=7kW0U&pd_rd_wg=HYohZ&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=FC1XXD2Q6DDAJ4Z1RN2K&psc=1&refRID=FC1XXD2Q6DDAJ4Z1RN2K) - Goes in depth to explain various resources we use when working with distributed systems, as well as how it came to be and what problems it aims to solve.
 
-- [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=pd_lpo_14_t_1/140-0179130-4076567?_encoding=UTF8&pd_rd_i=1491950358&pd_rd_r=e1f26397-6b89-4ffe-923f-21ad2d124b7a&pd_rd_w=7kW0U&pd_rd_wg=HYohZ&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=FC1XXD2Q6DDAJ4Z1RN2K&psc=1&refRID=FC1XXD2Q6DDAJ4Z1RN2K) 
+- [Building Microservices (Free)](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf) - Awesome book that talks about designing sytem architecture with microservices in depth, includes most relevant topics in this regard.
+
+- [Monolith to Microservices (Free)](https://www.nginx.com/resources/library/monolith-to-microservices/) - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
+
+-------
+
+# Videos
+
+
+### Introduction / Interviews
+
+- [Gaurav Sen - System Design Series](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Good resource for people who want to learn more about system design, introduces the topic in a very easy to understand way.
+
+- [Tech Dummies - System Design Series](https://www.youtube.com/watch?v=mhUQe4BKZXs&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Another introduction to system design.
+
+- [Mock System Design Interview at Google](https://www.youtube.com/watch?v=q0KGYwNbf-0) - Overview of what an interview on system design would look like from the perspective of a flawed but close fulfilling of the requirements. Key thing here is how the interaction with the interviewer goes.
+
+
+### Advanced
+
+- [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) -  Overview of how Reddit system design scaled. 
