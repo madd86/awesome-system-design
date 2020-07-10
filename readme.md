@@ -3,9 +3,13 @@
 ## Contents
 
 [Articles](#articles)
+
 [Books](#books)
+
 [Videos](#videos)
+
 [Tools](#tools)
+
 [Bonus](#bonus)
 
 # Articles
