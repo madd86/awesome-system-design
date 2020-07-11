@@ -191,4 +191,4 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 # Resource Manager
 
-- [Kubernetes]
+- [Kubernetes]()
