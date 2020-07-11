@@ -2,6 +2,14 @@
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
+# About
+
+A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data.
+
+*Disclaimer: Stars on github does not reflect usage or popularity for every item here listed.*
+
+Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blob/master/README.md)
+
 ## Contents
 
 [Articles](#articles)
@@ -10,7 +18,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 [Videos](#videos)
 
-[Tools](#tools)
+[Big Data](#big-data)
+
+- Relational Database Management System
+
+- NoSQL
+
+- 
 
 [Bonus](#bonus)
 
@@ -79,4 +93,94 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Advanced
 
-- [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) -  Overview of how Reddit system design scaled. 
+- [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
+
+# Big Data
+
+## Relational Database Management System
+
+*Experimental listing. **Arrows** indicate trending, **r/** reddit community size and **SO** indicates questions asked on StackOverflow.*
+
+- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mariadb) [MariaDB](https://mariadb.org/) - [[r/](https://www.reddit.com/r/mariadb/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mariadb) 8.8k 📚] - MariaDB is a fork of MySQL server.
+
+- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mysql) [MySQL](https://dev.mysql.com/) - [[r/](https://www.reddit.com/r/mysql/) 22k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mysql) 603k 📚]  - Widely used relational database.
+
+- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=postgresql) [PostgresSQL](https://www.postgresql.org/) - [[r/](https://www.reddit.com/r/PostgreSQL/) 14.8k 🗣] [[SO](https://stackoverflow.com/questions/tagged/postgresql) 120k 📚] - Relational database that has been gaining popularity.
+
+- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=sqlite) [SQLite](https://www.sqlite.org/index.html) - [[r/](https://www.reddit.com/r/sqlite/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/sqlite) 83k 📚] - Another widely used database that is built into all mobile phones and most computers.
+
+
+## NoSQL
+
+### Cache (Key-Value)
+
+- [Apache Ignite](https://github.com/apache/ignite) [3.3k ⭐] - In memory caching with ACID properties.
+
+- [Couchbase](https://developer.couchbase.com/open-source-projects) - Inspired by memcached, adding features such as replication and persistance.
+
+- [Oracle Coherence](https://github.com/oracle/coherence) [126 ⭐] - High scaling, low latency in-memory caching.
+
+- [Memcached](https://github.com/memcached/memcached) [10.2k ⭐] - One of the first in-memory caching database, high performing and multi-threaded.
+
+- [Redis](https://github.com/redis/redis) [44k ⭐] - Widely used in-memory caching database with many added features such as persistent storage and supporting strings, lists, sets, hashses, streams, bitmaps, etc. 
+
+###  Store (Key-Value)
+
+- [Apple FoundationDB](https://github.com/apple/foundationdb) [10k ⭐] - Multi-model (many data types in a single database), ACID key-value store. Easily scalable and fault tolerant.
+
+
+### Document Store
+
+- [CouchDB](https://github.com/apache/couchdb) [4.6k ⭐] - ACID compliant NoSQL document-store DB, provides a RESTful HTTP API for reading and updating database documents.
+
+- [MongoDB](https://www.mongodb.com/) - One of the most popular 'NoSQL' database for general purpose.
+
+- [RethinkDB](https://github.com/rethinkdb/rethinkdb) [23.8k ⭐] - Document-store DB.
+
+- [ElasticSearch](https://github.com/elastic/elasticsearch) [49.9k ⭐] - Widely popular 'NoSQL' database for fast and scalable search engines.
+
+### Wide Column Store
+
+- [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - Key-Value and Document database, highly performant, scalable and secure.
+
+- [Google Bigtable](https://cloud.google.com/bigtable) - Scalable and performant 'NoSQL' database for large analytical and operational workload.
+
+- [Cassandra](https://cassandra.apache.org/) - Facebook-born project very fast, easily scalable, with option to include consistency with each operation. 
+
+- [Scylla](https://github.com/scylladb/scylla) [4.9k ⭐] - 'NoSQL' data store using seastar framework, compatible with Cassandra.
+
+- [HBASE](https://github.com/apache/hbase) [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio.
+
+### Graph
+
+- [Amazon Neptune](https://aws.amazon.com/neptune/) - Fast, reliable and fully managed graph database service.
+
+- [ArangoDB](https://github.com/arangodb/arangodb) [10k ⭐] - Flexible database for documents, key-value, graphs. Uses its own query language, AQL.
+
+- [Neo4j](https://github.com/neo4j/neo4j) [7.9k ⭐] - Good support for a graph db, ACID compliant and flexible.
+
+# Distributed File Systems
+
+- [HDFS](https://hadoop.apache.org/) - Hadoop File System is a a widely popular choice among its big data competitors, providing high throughput access.
+
+- [Lustre](http://lustre.org/) - File system for computer clusters.
+
+- [CephFS](https://ceph.io/) - Unified, distributed storage system. 
+
+- [GlusterFS](https://www.gluster.org/) - Scale-out NAS file system.
+
+- [MooseFS](https://moosefs.com/) - POSIX-compliant distributed file system.
+
+- [XtreemFS](http://www.xtreemfs.org/) - Fault tolerant file system.
+
+# Data Processing Framework
+
+- [Hadoop]()
+
+- [Apache Spark]()
+
+- [Apache Storm]()
+
+- [Samza]()
+
+- [Flink]()
