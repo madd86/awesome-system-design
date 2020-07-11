@@ -6,7 +6,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data.
 
-*Disclaimer: Stars on github does not reflect usage or popularity for every item here listed.*
+*Attention: Stars on github does not reflect usage or popularity for every item here listed.*
 
 Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blob/master/README.md)
 
@@ -175,6 +175,8 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 # Data Processing Framework
 
+*AKA Compute Paradigm*
+
 - [Hadoop]()
 
 - [Apache Spark]()
@@ -184,3 +186,9 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 - [Samza]()
 
 - [Flink]()
+
+- [Beam]()
+
+# Resource Manager
+
+- [Kubernetes]
