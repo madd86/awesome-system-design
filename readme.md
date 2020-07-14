@@ -6,6 +6,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data.
 
+Whether you're preparing for an interview or you want to design a distributed/microservice oriented application, this list will definitely help you achieve that.
+
 *Attention: Stars on github does not reflect usage or popularity for every item here listed.*
 
 Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blob/master/README.md)
@@ -159,7 +161,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [Neo4j](https://github.com/neo4j/neo4j) [7.9k ⭐] - Good support for a graph db, ACID compliant and flexible.
 
-# Distributed File Systems
+## Distributed File Systems
 
 - [HDFS](https://hadoop.apache.org/) - Hadoop File System is a a widely popular choice among its big data competitors, providing high throughput access.
 
@@ -173,7 +175,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [XtreemFS](http://www.xtreemfs.org/) - Fault tolerant file system.
 
-# Data Processing Framework
+## Data Processing Framework
 
 *AKA Compute Paradigm*
 
@@ -189,6 +191,62 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [Beam]()
 
-# Resource Manager
+## Resource Manager
 
-- [Kubernetes]()
+- [Kubernetes]() 
+
+## Message Broker
+
+*AKA Message Queue*
+
+- [Amazon MQ](https://aws.amazon.com/amazon-mq/) - Open source message broker from Amazon.
+
+- [Apache ActiveMQ](https://activemq.apache.org/) - It's a multi-protocol, java based messaging server. 
+
+- [Apache Kafka](https://kafka.apache.org/) - Widely popular message broker with low latency for data streaming.
+
+- [RabbitMQ](https://www.rabbitmq.com/) - Widely popular lightweight 
+message broker written in erlang that also supports multiple messaging protocols.
+
+- [IronMQ](https://www.iron.io/mq) - Very fast and highly scalable messaging broker. (not open source)
+
+- [Apache Pulsar](https://pulsar.apache.org/) - Created by yahoo, also highly scalable, low latency, geo-replication and multi-tenacy. 
+
+- [Kestrel]() - Written in Scala and speaks the memcached protocol. It works much like Kafka. 
+Celery
+Cloverleaf (E-Novation Lifeline)
+
+## Load Balancers
+
+### Open Source Software
+
+- [SeeSaw](https://github.com/google/seesaw) [5.1k ⭐] - Used by Google, developed in Go, linux-based virtual load balancer server.
+
+- [HAProxy](https://www.haproxy.org/) - Widely popular option, provides high-availability, proxy, TCP/HTTP load balancing. Used by Reddit, Imgur, MaxCDN, Github, AirBNB. 
+
+- [Zevenet](https://www.zevenet.com/products/community/#repository) - Supports L3, L4 and L7. Easy install with a docker repo. Supports advanced health-check monitorining.
+
+- [Neutrino](https://neutrinoslb.github.io/) - Used by eBay, built with Scala and Netty. Supports round-robin and least-connection algorithms.
+
+- [Ngnix](https://www.nginx.com/) - Wait, isn't Nginx a web server? Yes, the open source does support basic level of content switching and request routing. Plus edition supports load balancing, WAF, monitoring, etc.
+
+### Hardware
+
+- [F5](https://www.f5.com/services/resources/glossary/load-balancer) - Robust hardware load balancer option, supporting multiple protocols (IP, TCP, FTP, UDP, HTTP).
+
+- [TP-Link](https://www.tp-link.com/) - Cheaper alternative that works as a load balancer.
+
+- [Barracuda](https://www.barracuda.com/products/loadbalancer) - One of the top choices for load balancing when it comes to in-house servers. Top security measures built in, comprehensive reports and monitoring outbound traffic for data loss prevention.
+
+### Cloud
+
+- [Amazon Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - Popular choice for amazon customers, supports lambda functions, highly scalable.
+
+- [Google Load Balancing](https://cloud.google.com/load-balancing) - Popular choice for google customers, comes with auto-scaling feature, very fast, has intergrated CDN.
+
+- [Cloudflare Load Balancing](https://www.cloudflare.com/load-balancing/) - Scalable load balancing by Cloudflare, feature fast failover and a dashboard.
+
+- [DigitalOcean Load Balancing](https://www.digitalocean.com/docs/networking/load-balancers/) - If you're a digitalocean customer, this is a good option, very cheap, regional availability, scalable, easy to deploy among your other droplets.
+
+- [Azure Load Balancing](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) - Popular choice for Microsoft's Azure customers. Supports internal and external traffics, ipv6, monitorining and the standard load balancing set of features.
+
