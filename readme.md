@@ -99,7 +99,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 # Big Data
 
-## Relational Database Management System
+# Relational Database Management System
 
 *Experimental listing. **Arrows** indicate trending, **r/** reddit community size and **SO** indicates questions asked on StackOverflow.*
 
@@ -112,7 +112,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 - [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=sqlite) [SQLite](https://www.sqlite.org/index.html) - [[r/](https://www.reddit.com/r/sqlite/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/sqlite) 83k 📚] - Another widely used database that is built into all mobile phones and most computers.
 
 
-## NoSQL
+# NoSQL
 
 ### Cache (Key-Value)
 
@@ -151,7 +151,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [Scylla](https://github.com/scylladb/scylla) [4.9k ⭐] - 'NoSQL' data store using seastar framework, compatible with Cassandra.
 
-- [HBASE](https://github.com/apache/hbase) [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio.
+- [HBASE](https://github.com/apache/hbase) [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio. (See [Hadoop Related](##hadoop-related))
 
 ### Graph
 
@@ -161,7 +161,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [Neo4j](https://github.com/neo4j/neo4j) [7.9k ⭐] - Good support for a graph db, ACID compliant and flexible.
 
-## Distributed File Systems
+# Distributed File Systems
 
 - [HDFS](https://hadoop.apache.org/) - Hadoop File System is a a widely popular choice among its big data competitors, providing high throughput access.
 
@@ -175,7 +175,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [XtreemFS](http://www.xtreemfs.org/) - Fault tolerant file system.
 
-## Data Processing Framework
+# Data Processing Framework
 
 *AKA Compute Paradigm*
 
@@ -191,11 +191,11 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [Beam]()
 
-## Resource Manager
+# Resource Manager
 
 - [Kubernetes]() 
 
-## Message Broker
+# Message Broker
 
 *AKA Message Queue*
 
@@ -216,7 +216,7 @@ message broker written in erlang that also supports multiple messaging protocols
 Celery
 Cloverleaf (E-Novation Lifeline)
 
-## Load Balancers
+# Load Balancers
 
 ### Open Source Software
 
@@ -250,3 +250,27 @@ Cloverleaf (E-Novation Lifeline)
 
 - [Azure Load Balancing](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) - Popular choice for Microsoft's Azure customers. Supports internal and external traffics, ipv6, monitorining and the standard load balancing set of features.
 
+# Hadoop-Related
+
+### DashBoard
+- [Ambari]() - Dashboard that integrates most of hadoop related technologies for easy management and executions.
+
+### Query
+
+- [Hive]() - Query hadoop stored data in SQL
+- [Pig]() - Scriping language that looks like SQL to query hadoop data.
+
+### Processing
+
+- [Tez]() - Solves a similar problem to Spark and MapReduce, 
+- [Map Reduce]()
+- [Spark]()
+
+### DB
+
+- [HBASE](https://github.com/apache/hbase) [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio.
+
+### Resource Management
+
+- [YARN]()
+- [MFSOS]()
