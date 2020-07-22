@@ -11,6 +11,8 @@ Attention: Stars on GitHub does not reflect usage or popularity for every item h
 
 Inspired By [Awesome-BigData](https://GitHub.com/onurakpolat/awesome-bigdata/blob/master/README.md)
 
+Started By Gabriel Leon de Mattos
+
 ## Contents
 
 [Articles](#articles)
