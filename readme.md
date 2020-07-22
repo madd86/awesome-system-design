@@ -156,7 +156,7 @@ Started By Gabriel Leon de Mattos
 
 - [Neo4j](https://GitHub.com/neo4j/neo4j) - [7.9k ⭐] - Good support for a graph db, ACID compliant and flexible.
 
-# Distributed File Systems
+## Distributed File Systems
 
 - [HDFS](https://hadoop.apache.org/) - Hadoop File System is a a widely popular choice among its big data competitors, providing high throughput access.
 
@@ -170,11 +170,11 @@ Started By Gabriel Leon de Mattos
 
 - [XtreemFS](http://www.xtreemfs.org/) - Fault tolerant file system.
 
-# Resource Management 
+## Resource Management 
 
 - [Kubernetes](https://kubernetes.io/) - Highly popular way to deploy, manage and automatically scale a cluster of containers on bare-metal or virtual servers.
 
-# Message Broker
+## Message Broker
 
 *AKA Message Queue*
 
