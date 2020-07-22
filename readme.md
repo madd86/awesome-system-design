@@ -21,7 +21,7 @@ Started By Gabriel Leon de Mattos
 
 [Videos](#videos)
 
-[Big Data](#big-data)
+[Tools](#tools)
 
 [Bonus](#bonus)
 
@@ -92,9 +92,9 @@ Started By Gabriel Leon de Mattos
 
 - [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
 
-# Big Data
+# Tools
 
-# Relational Database Management System
+## Relational Database Management System
 
 *Experimental listing. **Arrows** indicate trending, **r/** reddit community size and **SO** indicates questions asked on StackOverflow.*
 
@@ -107,7 +107,7 @@ Started By Gabriel Leon de Mattos
 - [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=sqlite) - [SQLite](https://www.sqlite.org/index.html) - [[r/](https://www.reddit.com/r/sqlite/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/sqlite) 83k 📚] - Another widely used database that is built into all mobile phones and most computers.
 
 
-# NoSQL
+## NoSQL
 
 ### Cache (Key-Value)
 
@@ -195,7 +195,7 @@ message broker written in erlang that also supports multiple messaging protocols
 Celery
 Cloverleaf (E-Novation Lifeline)
 
-# Load Balancers
+## Load Balancers
 
 ### Open Source Software
 
@@ -229,7 +229,7 @@ Cloverleaf (E-Novation Lifeline)
 
 - [Azure Load Balancing](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) - Popular choice for Microsoft's Azure customers. Supports internal and external traffics, ipv6, monitorining and the standard load balancing set of features.
 
-# Hadoop-Related
+## Hadoop-Related
 
 ### DashBoard
 - [Ambari]() - Dashboard that integrates most of hadoop related technologies for easy management and executions.
