@@ -1,16 +1,15 @@
 # AWESOME System Design
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
-
-# About
 
 A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data.
 
 Whether you're preparing for an interview or you want to design a distributed/microservice oriented application, this list will definitely help you achieve that.
 
-*Attention: Stars on github does not reflect usage or popularity for every item here listed.*
+Attention: Stars on GitHub does not reflect usage or popularity for every item here listed.
 
-Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blob/master/README.md)
+Inspired By [Awesome-BigData](https://GitHub.com/onurakpolat/awesome-bigdata/blob/master/README.md)
 
 ## Contents
 
@@ -22,19 +21,13 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 [Big Data](#big-data)
 
-- Relational Database Management System
-
-- NoSQL
-
-- 
-
 [Bonus](#bonus)
 
 # Articles
 
-### Introduction / Interviews 
+## Introduction / Interviews 
 
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) [109k ⭐] - Awesome compilation of resources, including Anki flashcard decks.
+- [System Design Primer](https://GitHub.com/donnemartin/system-design-primer) [109k ⭐] - Awesome compilation of resources, including Anki flashcard decks.
 
 - [System Design Interview Questions - Concepts you should know](https://www.freecodecamp.org/news/systems-design-for-interviews/) - A curated list of topics to introduce you to system design.
 
@@ -48,7 +41,7 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
 
-### Advanced 
+## Advanced 
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
 
@@ -116,30 +109,30 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 ### Cache (Key-Value)
 
-- [Apache Ignite](https://github.com/apache/ignite) [3.3k ⭐] - In memory caching with ACID properties.
+- [Apache Ignite](https://GitHub.com/apache/ignite) - [3.3k ⭐] - In memory caching with ACID properties.
 
 - [Couchbase](https://developer.couchbase.com/open-source-projects) - Inspired by memcached, adding features such as replication and persistance.
 
-- [Oracle Coherence](https://github.com/oracle/coherence) [126 ⭐] - High scaling, low latency in-memory caching.
+- [Oracle Coherence](https://GitHub.com/oracle/coherence) - [126 ⭐] - High scaling, low latency in-memory caching.
 
-- [Memcached](https://github.com/memcached/memcached) [10.2k ⭐] - One of the first in-memory caching database, high performing and multi-threaded.
+- [Memcached](https://GitHub.com/memcached/memcached) - [10.2k ⭐] - One of the first in-memory caching database, high performing and multi-threaded.
 
-- [Redis](https://github.com/redis/redis) [44k ⭐] - Widely used in-memory caching database with many added features such as persistent storage and supporting strings, lists, sets, hashses, streams, bitmaps, etc. 
+- [Redis](https://GitHub.com/redis/redis) - [44k ⭐] - Widely used in-memory caching database with many added features such as persistent storage and supporting strings, lists, sets, hashses, streams, bitmaps, etc. 
 
 ###  Store (Key-Value)
 
-- [Apple FoundationDB](https://github.com/apple/foundationdb) [10k ⭐] - Multi-model (many data types in a single database), ACID key-value store. Easily scalable and fault tolerant.
+- [Apple FoundationDB](https://GitHub.com/apple/foundationdb) - [10k ⭐] - Multi-model (many data types in a single database), ACID key-value store. Easily scalable and fault tolerant.
 
 
 ### Document Store
 
-- [CouchDB](https://github.com/apache/couchdb) [4.6k ⭐] - ACID compliant NoSQL document-store DB, provides a RESTful HTTP API for reading and updating database documents.
+- [CouchDB](https://GitHub.com/apache/couchdb) - [4.6k ⭐] - ACID compliant NoSQL document-store DB, provides a RESTful HTTP API for reading and updating database documents.
 
 - [MongoDB](https://www.mongodb.com/) - One of the most popular 'NoSQL' database for general purpose.
 
-- [RethinkDB](https://github.com/rethinkdb/rethinkdb) [23.8k ⭐] - Document-store DB.
+- [RethinkDB](https://GitHub.com/rethinkdb/rethinkdb) - [23.8k ⭐] - Document-store DB.
 
-- [ElasticSearch](https://github.com/elastic/elasticsearch) [49.9k ⭐] - Widely popular 'NoSQL' database for fast and scalable search engines.
+- [ElasticSearch](https://GitHub.com/elastic/elasticsearch) - [49.9k ⭐] - Widely popular 'NoSQL' database for fast and scalable search engines.
 
 ### Wide Column Store
 
@@ -149,17 +142,17 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [Cassandra](https://cassandra.apache.org/) - Facebook-born project very fast, easily scalable, with option to include consistency with each operation. 
 
-- [Scylla](https://github.com/scylladb/scylla) [4.9k ⭐] - 'NoSQL' data store using seastar framework, compatible with Cassandra.
+- [Scylla](https://GitHub.com/scylladb/scylla) - [4.9k ⭐] - 'NoSQL' data store using seastar framework, compatible with Cassandra.
 
-- [HBASE](https://github.com/apache/hbase) [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio. (See [Hadoop Related](##hadoop-related))
+- [HBASE](https://GitHub.com/apache/hbase) - [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio. (See [Hadoop Related](##hadoop-related))
 
 ### Graph
 
 - [Amazon Neptune](https://aws.amazon.com/neptune/) - Fast, reliable and fully managed graph database service.
 
-- [ArangoDB](https://github.com/arangodb/arangodb) [10k ⭐] - Flexible database for documents, key-value, graphs. Uses its own query language, AQL.
+- [ArangoDB](https://GitHub.com/arangodb/arangodb) - [10k ⭐] - Flexible database for documents, key-value, graphs. Uses its own query language, AQL.
 
-- [Neo4j](https://github.com/neo4j/neo4j) [7.9k ⭐] - Good support for a graph db, ACID compliant and flexible.
+- [Neo4j](https://GitHub.com/neo4j/neo4j) - [7.9k ⭐] - Good support for a graph db, ACID compliant and flexible.
 
 # Distributed File Systems
 
@@ -175,25 +168,9 @@ Inspired By [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata/blo
 
 - [XtreemFS](http://www.xtreemfs.org/) - Fault tolerant file system.
 
-# Data Processing Framework
+# Resource Management 
 
-*AKA Compute Paradigm*
-
-- [Hadoop]()
-
-- [Apache Spark]()
-
-- [Apache Storm]()
-
-- [Samza]()
-
-- [Flink]()
-
-- [Beam]()
-
-# Resource Manager
-
-- [Kubernetes]() 
+- [Kubernetes](https://kubernetes.io/) - Highly popular way to deploy, manage and automatically scale a cluster of containers on bare-metal or virtual servers.
 
 # Message Broker
 
@@ -220,13 +197,13 @@ Cloverleaf (E-Novation Lifeline)
 
 ### Open Source Software
 
-- [SeeSaw](https://github.com/google/seesaw) [5.1k ⭐] - Used by Google, developed in Go, linux-based virtual load balancer server.
+- [SeeSaw](https://GitHub.com/google/seesaw) [5.1k ⭐] - Used by Google, developed in Go, linux-based virtual load balancer server.
 
-- [HAProxy](https://www.haproxy.org/) - Widely popular option, provides high-availability, proxy, TCP/HTTP load balancing. Used by Reddit, Imgur, MaxCDN, Github, AirBNB. 
+- [HAProxy](https://www.haproxy.org/) - Widely popular option, provides high-availability, proxy, TCP/HTTP load balancing. Used by Reddit, Imgur, MaxCDN, GitHub, AirBNB. 
 
 - [Zevenet](https://www.zevenet.com/products/community/#repository) - Supports L3, L4 and L7. Easy install with a docker repo. Supports advanced health-check monitorining.
 
-- [Neutrino](https://neutrinoslb.github.io/) - Used by eBay, built with Scala and Netty. Supports round-robin and least-connection algorithms.
+- [Neutrino](https://neutrinoslb.GitHub.io/) - Used by eBay, built with Scala and Netty. Supports round-robin and least-connection algorithms.
 
 - [Ngnix](https://www.nginx.com/) - Wait, isn't Nginx a web server? Yes, the open source does support basic level of content switching and request routing. Plus edition supports load balancing, WAF, monitoring, etc.
 
@@ -257,20 +234,20 @@ Cloverleaf (E-Novation Lifeline)
 
 ### Query
 
-- [Hive]() - Query hadoop stored data in SQL
-- [Pig]() - Scriping language that looks like SQL to query hadoop data.
+- [Hive](https://hive.apache.org/) - Query hadoop stored data in SQL.
+- [Pig](https://pig.apache.org/) - Scriping language that looks like SQL to query hadoop data.
 
 ### Processing
 
-- [Tez]() - Solves a similar problem to Spark and MapReduce, 
-- [Map Reduce]()
-- [Spark]()
+- [Tez](https://tez.apache.org/) - Solves a similar problem to Spark and MapReduce, it's more efficient than MapReduce because it calculates the most efficient way of doing it.
+- [Map Reduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - MapReduce, as the name implies, maps data and reduce the results. 
+- [Spark](https://spark.apache.org/) - Powerful data processing to not only process data like Tez (and MapReduce), it can process streams of data in real time, apply regression analysis algorithms in ML and much more. 
 
 ### DB
 
-- [HBASE](https://github.com/apache/hbase) [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio.
+- [HBASE](https://GitHub.com/apache/hbase) - [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project.
 
 ### Resource Management
 
-- [YARN]()
-- [MFSOS]()
+- [YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - 'Yet Another Resource Negotiator', works like a kernel to manage computer resources across the clusters. 
+- [MESOS](http://mesos.apache.org/) - Works like a Linux Kernel by managing CPU, memory, storage and other resources across the cluster. 
