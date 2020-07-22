@@ -29,7 +29,7 @@ Started By Gabriel Leon de Mattos
 
 ## Introduction / Interviews 
 
-- [System Design Primer](https://GitHub.com/donnemartin/system-design-primer) [109k ⭐] - Awesome compilation of resources, including Anki flashcard decks.
+- [System Design Primer](https://GitHub.com/donnemartin/system-design-primer) - [109k ⭐] - Awesome compilation of resources, including Anki flashcard decks.
 
 - [System Design Interview Questions - Concepts you should know](https://www.freecodecamp.org/news/systems-design-for-interviews/) - A curated list of topics to introduce you to system design.
 
@@ -65,13 +65,13 @@ Started By Gabriel Leon de Mattos
 
 # Books
 
-- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) [Paid 💵] - Book that talks about disitributed systems as well as lightly demonstrating some code of what it looks like.
+- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) - [Paid 💵] - Book that talks about disitributed systems as well as lightly demonstrating some code of what it looks like.
 
-- [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_14_t_0/140-0179130-4076567?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=e1f26397-6b89-4ffe-923f-21ad2d124b7a&pd_rd_w=7kW0U&pd_rd_wg=HYohZ&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=FC1XXD2Q6DDAJ4Z1RN2K&psc=1&refRID=FC1XXD2Q6DDAJ4Z1RN2K) [Paid 💵] - Goes in depth to explain various resources we use when working with distributed systems, as well as how it came to be and what problems it aims to solve.
+- [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_14_t_0/140-0179130-4076567?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=e1f26397-6b89-4ffe-923f-21ad2d124b7a&pd_rd_w=7kW0U&pd_rd_wg=HYohZ&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=FC1XXD2Q6DDAJ4Z1RN2K&psc=1&refRID=FC1XXD2Q6DDAJ4Z1RN2K) - [Paid 💵] - Goes in depth to explain various resources we use when working with distributed systems, as well as how it came to be and what problems it aims to solve.
 
-- [Building Microservices](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf) [Free 👍] - Awesome book that talks about designing sytem architecture with microservices in depth, includes most relevant topics in this regard.
+- [Building Microservices](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf) - [Free 👍] - Awesome book that talks about designing sytem architecture with microservices in depth, includes most relevant topics in this regard.
 
-- [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/) [Free 👍] - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
+- [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/) - [Free 👍] - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
 
 -------
 
@@ -98,13 +98,13 @@ Started By Gabriel Leon de Mattos
 
 *Experimental listing. **Arrows** indicate trending, **r/** reddit community size and **SO** indicates questions asked on StackOverflow.*
 
-- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mariadb) [MariaDB](https://mariadb.org/) - [[r/](https://www.reddit.com/r/mariadb/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mariadb) 8.8k 📚] - MariaDB is a fork of MySQL server.
+- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mariadb) - [MariaDB](https://mariadb.org/) - [[r/](https://www.reddit.com/r/mariadb/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mariadb) 8.8k 📚] - MariaDB is a fork of MySQL server.
 
-- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mysql) [MySQL](https://dev.mysql.com/) - [[r/](https://www.reddit.com/r/mysql/) 22k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mysql) 603k 📚]  - Widely used relational database.
+- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mysql) - [MySQL](https://dev.mysql.com/) - [[r/](https://www.reddit.com/r/mysql/) 22k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mysql) 603k 📚]  - Widely used relational database.
 
-- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=postgresql) [PostgresSQL](https://www.postgresql.org/) - [[r/](https://www.reddit.com/r/PostgreSQL/) 14.8k 🗣] [[SO](https://stackoverflow.com/questions/tagged/postgresql) 120k 📚] - Relational database that has been gaining popularity.
+- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=postgresql) - [PostgresSQL](https://www.postgresql.org/) - [[r/](https://www.reddit.com/r/PostgreSQL/) 14.8k 🗣] [[SO](https://stackoverflow.com/questions/tagged/postgresql) 120k 📚] - Relational database that has been gaining popularity.
 
-- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=sqlite) [SQLite](https://www.sqlite.org/index.html) - [[r/](https://www.reddit.com/r/sqlite/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/sqlite) 83k 📚] - Another widely used database that is built into all mobile phones and most computers.
+- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=sqlite) - [SQLite](https://www.sqlite.org/index.html) - [[r/](https://www.reddit.com/r/sqlite/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/sqlite) 83k 📚] - Another widely used database that is built into all mobile phones and most computers.
 
 
 # NoSQL
@@ -199,7 +199,7 @@ Cloverleaf (E-Novation Lifeline)
 
 ### Open Source Software
 
-- [SeeSaw](https://GitHub.com/google/seesaw) [5.1k ⭐] - Used by Google, developed in Go, linux-based virtual load balancer server.
+- [SeeSaw](https://GitHub.com/google/seesaw) - [5.1k ⭐] - Used by Google, developed in Go, linux-based virtual load balancer server.
 
 - [HAProxy](https://www.haproxy.org/) - Widely popular option, provides high-availability, proxy, TCP/HTTP load balancing. Used by Reddit, Imgur, MaxCDN, GitHub, AirBNB. 
 
