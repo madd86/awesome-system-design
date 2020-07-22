@@ -39,7 +39,7 @@ Started By Gabriel Leon de Mattos
 
 - [Everything you need to know about Design System](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969) - Another introductory article written in a friendly way.
 
-- [System Design](https://www.interviewbit.com/courses/system-design/) - Introductory interview preparation resources
+- [System Design](https://www.interviewbit.com/courses/system-design/) - Introductory interview preparation resources.
 
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
 
@@ -61,7 +61,7 @@ Started By Gabriel Leon de Mattos
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) - Good article about distributed systems as well as some of the potential tools.
 
--------
+---
 
 # Books
 
@@ -73,12 +73,13 @@ Started By Gabriel Leon de Mattos
 
 - [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/) - [Free 👍] - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
 
--------
+---
 
 # Videos
 
+A collection of videos based on distributed systems.
 
-### Introduction / Interviews
+## Introduction / Interviews
 
 - [Gaurav Sen - System Design Series](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Good resource for people who want to learn more about system design, introduces the topic in a very easy to understand way.
 
@@ -88,23 +89,24 @@ Started By Gabriel Leon de Mattos
 
 - [Google Preparation Guide](https://www.youtube.com/watch?v=Gg318hR5JY0) - A quick video explaining how they interview.
 
-### Advanced
+## Advanced
 
 - [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
 
 # Tools
 
+- A collection of most commonly used tools for distributed systems
+
 ## Relational Database Management System
 
-*Experimental listing. **Arrows** indicate trending, **r/** reddit community size and **SO** indicates questions asked on StackOverflow.*
 
-- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mariadb) - [MariaDB](https://mariadb.org/) - [[r/](https://www.reddit.com/r/mariadb/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mariadb) 8.8k 📚] - MariaDB is a fork of MySQL server.
+- [MariaDB](https://mariadb.org/) - MariaDB is a fork of MySQL server.
 
-- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=mysql) - [MySQL](https://dev.mysql.com/) - [[r/](https://www.reddit.com/r/mysql/) 22k 🗣] [[SO](https://stackoverflow.com/questions/tagged/mysql) 603k 📚]  - Widely used relational database.
+- [MySQL](https://dev.mysql.com/) - Widely used relational database.
 
-- [↗️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=postgresql) - [PostgresSQL](https://www.postgresql.org/) - [[r/](https://www.reddit.com/r/PostgreSQL/) 14.8k 🗣] [[SO](https://stackoverflow.com/questions/tagged/postgresql) 120k 📚] - Relational database that has been gaining popularity.
+- [PostgresSQL](https://www.postgresql.org/) - Relational database that has been gaining popularity.
 
-- [↘️](https://insights.stackoverflow.com/trends?utm_source=so-owned&utm_medium=blog&utm_campaign=trends&utm_content=blog-link&tags=sqlite) - [SQLite](https://www.sqlite.org/index.html) - [[r/](https://www.reddit.com/r/sqlite/) 1.2k 🗣] [[SO](https://stackoverflow.com/questions/tagged/sqlite) 83k 📚] - Another widely used database that is built into all mobile phones and most computers.
+- [SQLite](https://www.sqlite.org/index.html) - Another widely used database that is built into all mobile phones and most computers.
 
 
 ## NoSQL
@@ -121,7 +123,7 @@ Started By Gabriel Leon de Mattos
 
 - [Redis](https://GitHub.com/redis/redis) - [44k ⭐] - Widely used in-memory caching database with many added features such as persistent storage and supporting strings, lists, sets, hashses, streams, bitmaps, etc. 
 
-###  Store (Key-Value)
+### Store (Key-Value)
 
 - [Apple FoundationDB](https://GitHub.com/apple/foundationdb) - [10k ⭐] - Multi-model (many data types in a single database), ACID key-value store. Easily scalable and fault tolerant.
 
@@ -176,8 +178,6 @@ Started By Gabriel Leon de Mattos
 
 ## Message Broker
 
-*AKA Message Queue*
-
 - [Amazon MQ](https://aws.amazon.com/amazon-mq/) - Open source message broker from Amazon.
 
 - [Apache ActiveMQ](https://activemq.apache.org/) - It's a multi-protocol, java based messaging server. 
@@ -231,8 +231,8 @@ Cloverleaf (E-Novation Lifeline)
 
 ## Hadoop-Related
 
-### DashBoard
-- [Ambari]() - Dashboard that integrates most of hadoop related technologies for easy management and executions.
+### Dashboard
+- [Ambari](https://ambari.apache.org/) - Dashboard that integrates most of hadoop related technologies for easy management and executions.
 
 ### Query
 
