@@ -89,6 +89,8 @@ A collection of videos based on distributed systems.
 
 - [Google Preparation Guide](https://www.youtube.com/watch?v=Gg318hR5JY0) - A quick video explaining how they interview.
 
+- [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/) - YouTube channel focussed on content specific to system design interviews, with detailed explanation of a variety of problems.
+
 ## Advanced
 
 - [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
