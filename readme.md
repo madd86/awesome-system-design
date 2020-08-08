@@ -148,7 +148,7 @@ A collection of videos based on distributed systems.
 
 - [Scylla](https://GitHub.com/scylladb/scylla) - [4.9k ⭐] - 'NoSQL' data store using seastar framework, compatible with Cassandra.
 
-- [HBASE](https://GitHub.com/apache/hbase) - [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio. (See [Hadoop Related](##hadoop-related))
+- [HBase](https://GitHub.com/apache/hbase) - [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio. (See [Hadoop Related](##hadoop-related))
 
 ### Graph
 
@@ -247,9 +247,18 @@ Cloverleaf (E-Novation Lifeline)
 
 ### DB
 
-- [HBASE](https://GitHub.com/apache/hbase) - [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project.
+- [HBase](https://GitHub.com/apache/hbase) - [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project.
 
 ### Resource Management
 
 - [YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - 'Yet Another Resource Negotiator', works like a kernel to manage computer resources across the clusters. 
 - [MESOS](http://mesos.apache.org/) - Works like a Linux Kernel by managing CPU, memory, storage and other resources across the cluster. 
+
+
+## REST Framework
+
+- [Gin](https://github.com/gin-gonic/gin) - [40.6k ⭐] - Blazingly fast microservice framework using Golang, high throughput capacity.
+- [Phoenix](https://github.com/phoenixframework/phoenix) - [15.5k ⭐] - Distributed processing, easily scalable, support for channels and live chat. This framework uses BEAM and Erlang, very efficient for large scale systems and supports high throughput.
+- [Express.js](https://github.com/expressjs/express) - [49.6k ⭐] - Fast node.js rest api that can perform well under many scenarios.
+- [Rails](https://github.com/rails/rails) - [46.2k ⭐] - Written in Ruby, Rails delivers quick apis from prototype to production in an efficient manner.
+- [Play Framework](https://github.com/playframework/playframework) - [11.6k ⭐] - Very fast, high throughput framework written in Scala/Java that is RESTful by default.
