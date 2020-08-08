@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/logo.png" align="center" width="850">](https://flutter.dev/)
+[<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/logo.png" align="center" width="850">]
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
@@ -231,10 +231,24 @@ Cloverleaf (E-Novation Lifeline)
 
 - [Azure Load Balancing](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) - Popular choice for Microsoft's Azure customers. Supports internal and external traffics, ipv6, monitorining and the standard load balancing set of features.
 
-## Hadoop-Related
+## Core Hadoop Ecosystem
+
+[<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/hadoop-ecosystem.png" align="center" width="330">]
 
 ### Dashboard
 - [Ambari](https://ambari.apache.org/) - Dashboard that integrates most of hadoop related technologies for easy management and executions.
+
+### Data Ingestion
+
+- [Sqoop](https://sqoop.apache.org/) - Efficiently transfer data between Hadoop and structured datastores such as relational databases.
+
+- [Flume](https://flume.apache.org/) - Distributed, highly available and efficient in collecting, aggregating and moving large amounts of log data. 
+
+- [Apache Kafka](https://kafka.apache.org/) - Widely popular message broker with low latency for data streaming.
+
+### Workflow Scheduler
+
+- [Oozie](https://oozie.apache.org/) - Create workflows in xml to execute jobs (from other hadoop-ecosystem applications) in steps, allows for parallel execution as well. 
 
 ### Query
 
