@@ -1,4 +1,4 @@
-# AWESOME System Design
+[<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/logo.png" align="center" width="850">](https://flutter.dev/)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
