@@ -275,7 +275,7 @@ message broker written in erlang that also supports multiple messaging protocols
 ## REST Framework
 
 - [Gin](https://github.com/gin-gonic/gin) - [40.6k ⭐] - Blazingly fast microservice framework using Golang, high throughput capacity.
-- [Phoenix](https://github.com/phoenixframework/phoenix) - [15.5k ⭐] - Distributed processing, easily scalable, support for channels and live chat. This framework uses BEAM and Erlang, very efficient for large scale systems and supports high throughput.
+- [Phoenix](https://github.com/phoenixframework/phoenix) - [15.5k ⭐] - Distributed processing, easily scalable, support for channels and live chat. This framework - written in Elixir, uses BEAM and Erlang, very efficient for large scale systems and supports high throughput.
 - [Express.js](https://github.com/expressjs/express) - [49.6k ⭐] - Fast node.js rest api that can perform well under many scenarios.
 - [Rails](https://github.com/rails/rails) - [46.2k ⭐] - Written in Ruby, Rails delivers quick apis from prototype to production in an efficient manner.
 - [Play Framework](https://github.com/playframework/playframework) - [11.6k ⭐] - Very fast, high throughput framework written in Scala/Java that is RESTful by default.
