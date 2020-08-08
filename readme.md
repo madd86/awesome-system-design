@@ -193,9 +193,7 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [Apache Pulsar](https://pulsar.apache.org/) - Created by yahoo, also highly scalable, low latency, geo-replication and multi-tenacy. 
 
-- [Kestrel]() - Written in Scala and speaks the memcached protocol. It works much like Kafka. 
-Celery
-Cloverleaf (E-Novation Lifeline)
+- [Kestrel](https://github.com/twitter-archive/kestrel) - Written in Scala and speaks the memcached protocol. It works much like Kafka. 
 
 ## Load Balancers
 
@@ -233,7 +231,7 @@ Cloverleaf (E-Novation Lifeline)
 
 ## Core Hadoop Ecosystem
 
-[<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/hadoop-ecosystem.png" align="center" width="330">]
+<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/hadoop-ecosystem.png" align="center" width="330">
 
 ### Dashboard
 - [Ambari](https://ambari.apache.org/) - Dashboard that integrates most of hadoop related technologies for easy management and executions.
