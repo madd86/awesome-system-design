@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/logo.png" align="center" width="850">
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  </a>
+</p>
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data.
