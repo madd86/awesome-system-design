@@ -30,6 +30,7 @@ Started By Gabriel Leon de Mattos
 * [NoSQL](#NoSQL)
 * [Distributed File Systems](#Distributed-File-Systems)
 * [Resource Management](#Resource-Management)
+* [Stream Processing](#Stream-Processing)
 * [Message Broker](#Message-Broker)
 * [Load Balancers](#Load-Balancers)
 * [Core Hadoop Ecosystem](#Core-Hadoop-Ecosystem)
