@@ -26,6 +26,15 @@ Started By Gabriel Leon de Mattos
 
 [Tools](#tools)
 
+* [Relational Database](#Relational-Database-Management-System)
+* [NoSQL](#NoSQL)
+* [Distributed File Systems](#Distributed-File-Systems)
+* [Resource Management](#Resource-Management)
+* [Message Broker](#Message-Broker)
+* [Load Balancers](#Load-Balancers)
+* [Core Hadoop Ecosystem](#Core-Hadoop-Ecosystem)
+* [REST Framework](#REST-Framework)
+
 [Bonus](#bonus)
 
 # Articles
@@ -39,8 +48,6 @@ Started By Gabriel Leon de Mattos
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) - [Paid 💵] - Grokking System Design preparation is one of the most talked about course. The best thing about it is the design of applications it suggests rather than explanations of what each tool is supposed to do.
 
 - [System Design in Software Development](https://medium.com/the-andela-way/system-design-in-software-development-f360ce6fcbb9) - Basic article on the topics of system design and architecture.
-
-- [Everything you need to know about Design System](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969) - Another introductory article written in a friendly way.
 
 - [System Design](https://www.interviewbit.com/courses/system-design/) - Introductory interview preparation resources.
 
@@ -93,6 +100,10 @@ A collection of videos based on distributed systems.
 - [Google Preparation Guide](https://www.youtube.com/watch?v=Gg318hR5JY0) - A quick video explaining how they interview.
 
 - [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/) - YouTube channel focussed on content specific to system design interviews, with detailed explanation of a variety of problems.
+
+- [Intro to Architecture and System Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) - A youtube video with Jackson Gabbard with good info about system design interviews.
+
+- [System Design Introduction for Interview](https://www.youtube.com/watch?v=UzLMhqg3_Wc) - Tushar's intro to System Design.
 
 ## Advanced
 
@@ -181,6 +192,12 @@ A collection of videos based on distributed systems.
 
 - [Kubernetes](https://kubernetes.io/) - Highly popular way to deploy, manage and automatically scale a cluster of containers on bare-metal or virtual servers.
 
+## Stream Processing
+
+- [Apache Samza](http://samza.apache.org/) - Build stateful applications that process data in real time from multiple sources, including Kafka. Easy and inexpensive multi-subscriber model, can eliminate backpressure and has reliable persistency with low latency.
+- [Apache Flink](https://flink.apache.org/) - Based on the concept of streams and transofrmations. Uses maven, handles batch tasks as data streams with finite boundaries. Low latency, high throughput.
+- [Amazon Kinesis Streams](https://aws.amazon.com/kinesis/data-streams/) - Durable, scalable real time service. Collects gigabytes of data per second from hundreds of thousands of sources, including database event streams, website clickstreams, financial transactions, etc.
+
 ## Message Broker
 
 - [Amazon MQ](https://aws.amazon.com/amazon-mq/) - Open source message broker from Amazon.
@@ -232,7 +249,7 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [Azure Load Balancing](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) - Popular choice for Microsoft's Azure customers. Supports internal and external traffics, ipv6, monitorining and the standard load balancing set of features.
 
-## Core Hadoop Ecosystem
+##  Hadoop Ecosystem
 
 <img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/hadoop-ecosystem.png" align="center" width="330">
 
@@ -261,6 +278,7 @@ message broker written in erlang that also supports multiple messaging protocols
 - [Tez](https://tez.apache.org/) - Solves a similar problem to Spark and MapReduce, it's more efficient than MapReduce because it calculates the most efficient way of doing it.
 - [Map Reduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - MapReduce, as the name implies, maps data and reduce the results. 
 - [Spark](https://spark.apache.org/) - Powerful data processing to not only process data like Tez (and MapReduce), it can process streams of data in real time, apply regression analysis algorithms in ML and much more. 
+- [Apex](https://apex.apache.org/) - *Retired project, it's a YARN-native platform that unifies stream and batch processing. 
 
 ### DB
 
@@ -279,3 +297,5 @@ message broker written in erlang that also supports multiple messaging protocols
 - [Express.js](https://github.com/expressjs/express) - [49.6k ⭐] - Fast node.js rest api that can perform well under many scenarios.
 - [Rails](https://github.com/rails/rails) - [46.2k ⭐] - Written in Ruby, Rails delivers quick apis from prototype to production in an efficient manner.
 - [Play Framework](https://github.com/playframework/playframework) - [11.6k ⭐] - Very fast, high throughput framework written in Scala/Java that is RESTful by default.
+- [Flask](https://github.com/pallets/flask) - [51.6k ⭐] - A lightweight Python Microframework for fast prototyping and production. 
+- [Django REST](https://github.com/encode/django-rest-framework) - [18.4k ⭐] - Written in Python, Django Rest is a powerful and flexible REST API. The efficiency and time to market resembles Rails.
