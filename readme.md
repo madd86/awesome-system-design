@@ -105,10 +105,13 @@ A collection of videos based on distributed systems.
 - [Intro to Architecture and System Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) - A youtube video with Jackson Gabbard with good info about system design interviews.
 
 - [System Design Introduction for Interview](https://www.youtube.com/watch?v=UzLMhqg3_Wc) - Tushar's intro to System Design.
+- [Distributed Systems](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A) - This is an introductory course in Distributed Systems made by Chris Colohan. He got PhD from Carnegie Mellon, then spent 10 years working at Google building distributed systems. 
 
 ## Advanced
 
 - [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
+- [6.824 Distributed Systems by MIT](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) - Graduate level course on distributed systems from MIT (2020).
+- [CSE138 Distributed Systems by UCSC](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) - Undergraduate course on distributed systems from UCSC (2020).
 
 # Tools
 
@@ -323,4 +326,4 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [Django REST](https://github.com/encode/django-rest-framework) - [18.4k ⭐] - Written in Python, Django Rest is a powerful and flexible REST API. The efficiency and time to market resembles Rails.
 
-- [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1) - A rich framework for building web apps and APIs using the Model-View-Controller design pattern in C# or F#. Number 6 on [TechEmpower Composite Benchmarks](https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite) for web frameworks
+- [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1) - A rich framework for building web apps and APIs using the Model-View-Controller design pattern in C# or F#. Number 6 on [TechEmpower Composite Benchmarks](https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite) for web frameworks.
