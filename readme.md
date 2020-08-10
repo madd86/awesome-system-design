@@ -125,7 +125,7 @@ A collection of videos based on distributed systems.
 
 - [SQLite](https://www.sqlite.org/index.html) - Another widely used database that is built into all mobile phones and most computers.
 
-- [Sql Server](https://www.microsoft.com/en-us/sql-server) - Widely used relational database
+- [Sql Server](https://www.microsoft.com/en-us/sql-server) - Widely used relational database.
 
 
 ## NoSQL
