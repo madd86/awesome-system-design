@@ -125,6 +125,8 @@ A collection of videos based on distributed systems.
 
 - [SQLite](https://www.sqlite.org/index.html) - Another widely used database that is built into all mobile phones and most computers.
 
+- [Sql Server](https://www.microsoft.com/en-us/sql-server) - Widely used relational database
+
 
 ## NoSQL
 
@@ -144,6 +146,8 @@ A collection of videos based on distributed systems.
 
 - [Apple FoundationDB](https://GitHub.com/apple/foundationdb) - [10k ⭐] - Multi-model (many data types in a single database), ACID key-value store. Easily scalable and fault tolerant.
 
+- [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) - Microsoft's globally distributed, multi-model database service. Eastically and independently scale throughput and storage. SQL, MongoDB, Cassandra, Tables, Gremlin, and Spark APIs.
+
 
 ### Document Store
 
@@ -154,6 +158,8 @@ A collection of videos based on distributed systems.
 - [RethinkDB](https://GitHub.com/rethinkdb/rethinkdb) - [23.8k ⭐] - Document-store DB.
 
 - [ElasticSearch](https://GitHub.com/elastic/elasticsearch) - [49.9k ⭐] - Widely popular 'NoSQL' database for fast and scalable search engines.
+
+- [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) - Microsoft's globally distributed, multi-model database service. Eastically and independently scale throughput and storage. SQL, MongoDB, Cassandra, Tables, Gremlin, and Spark APIs.
 
 ### Wide Column Store
 
@@ -167,6 +173,8 @@ A collection of videos based on distributed systems.
 
 - [HBase](https://GitHub.com/apache/hbase) - [3.6k ⭐] - Modeled after Google's Bigtable and written in Java. Developed as a part of Apache Hadoop project and runs on top of HDFS or Alluxio. (See [Hadoop Related](##hadoop-related))
 
+- [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) - Microsoft's globally distributed, multi-model database service. Eastically and independently scale throughput and storage. SQL, MongoDB, Cassandra, Tables, Gremlin, and Spark APIs.
+
 ### Graph
 
 - [Amazon Neptune](https://aws.amazon.com/neptune/) - Fast, reliable and fully managed graph database service.
@@ -174,6 +182,8 @@ A collection of videos based on distributed systems.
 - [ArangoDB](https://GitHub.com/arangodb/arangodb) - [10k ⭐] - Flexible database for documents, key-value, graphs. Uses its own query language, AQL.
 
 - [Neo4j](https://GitHub.com/neo4j/neo4j) - [7.9k ⭐] - Good support for a graph db, ACID compliant and flexible.
+
+- [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) - Microsoft's globally distributed, multi-model database service. Eastically and independently scale throughput and storage. SQL, MongoDB, Cassandra, Tables, Gremlin, and Spark APIs.
 
 ## Distributed File Systems
 
@@ -196,8 +206,12 @@ A collection of videos based on distributed systems.
 ## Stream Processing
 
 - [Apache Samza](http://samza.apache.org/) - Build stateful applications that process data in real time from multiple sources, including Kafka. Easy and inexpensive multi-subscriber model, can eliminate backpressure and has reliable persistency with low latency.
+
 - [Apache Flink](https://flink.apache.org/) - Based on the concept of streams and transofrmations. Uses maven, handles batch tasks as data streams with finite boundaries. Low latency, high throughput.
-- [Amazon Kinesis Streams](https://aws.amazon.com/kinesis/data-streams/) - Durable, scalable real time service. Collects gigabytes of data per second from hundreds of thousands of sources, including database event streams, website clickstreams, financial transactions, etc.
+
+- [Amazon Kinesis Streams](https://aws.amazon.com/kinesis/data-streams/) - Durable, scalable, real-tme service. Collects gigabytes of data per second from hundreds of thousands of sources, including database event streams, website clickstreams, financial transactions, etc.
+
+- [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) - Real-time analytics service that is designed for mission-critical workloads.
 
 ## Message Broker
 
@@ -215,6 +229,8 @@ message broker written in erlang that also supports multiple messaging protocols
 - [Apache Pulsar](https://pulsar.apache.org/) - Created by yahoo, also highly scalable, low latency, geo-replication and multi-tenacy. 
 
 - [Kestrel](https://github.com/twitter-archive/kestrel) - Written in Scala and speaks the memcached protocol. It works much like Kafka. 
+
+- [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) - A fully managed enterprise integration message broker.
 
 ## Load Balancers
 
@@ -294,9 +310,17 @@ message broker written in erlang that also supports multiple messaging protocols
 ## REST Framework
 
 - [Gin](https://github.com/gin-gonic/gin) - [40.6k ⭐] - Blazingly fast microservice framework using Golang, high throughput capacity.
+
 - [Phoenix](https://github.com/phoenixframework/phoenix) - [15.5k ⭐] - Distributed processing, easily scalable, support for channels and live chat. This framework - written in Elixir, uses BEAM and Erlang, very efficient for large scale systems and supports high throughput.
+
 - [Express.js](https://github.com/expressjs/express) - [49.6k ⭐] - Fast node.js rest api that can perform well under many scenarios.
+
 - [Rails](https://github.com/rails/rails) - [46.2k ⭐] - Written in Ruby, Rails delivers quick apis from prototype to production in an efficient manner.
+
 - [Play Framework](https://github.com/playframework/playframework) - [11.6k ⭐] - Very fast, high throughput framework written in Scala/Java that is RESTful by default.
+
 - [Flask](https://github.com/pallets/flask) - [51.6k ⭐] - A lightweight Python Microframework for fast prototyping and production. 
+
 - [Django REST](https://github.com/encode/django-rest-framework) - [18.4k ⭐] - Written in Python, Django Rest is a powerful and flexible REST API. The efficiency and time to market resembles Rails.
+
+- [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1) - A rich framework for building web apps and APIs using the Model-View-Controller design pattern in C# or F#. Number 6 on [TechEmpower Composite Benchmarks](https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite) for web frameworks
