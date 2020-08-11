@@ -33,7 +33,7 @@ Started By Gabriel Leon de Mattos
 * [Stream Processing](#Stream-Processing)
 * [Message Broker](#Message-Broker)
 * [Load Balancers](#Load-Balancers)
-* [Core Hadoop Ecosystem](#Core-Hadoop-Ecosystem)
+* [Hadoop Ecosystem](#Hadoop-Ecosystem)
 * [REST Framework](#REST-Framework)
 
 [Bonus](#bonus)
@@ -247,7 +247,7 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [Neutrino](https://neutrinoslb.GitHub.io/) - Used by eBay, built with Scala and Netty. Supports round-robin and least-connection algorithms.
 
-- [Ngnix](https://www.nginx.com/) - Wait, isn't Nginx a web server? Yes, the open source does support basic level of content switching and request routing. Plus edition supports load balancing, WAF, monitoring, etc.
+- [Nginx](https://www.nginx.com/) - Wait, isn't Nginx a web server? Yes, the open source does support basic level of content switching and request routing. Plus edition supports load balancing, WAF, monitoring, etc.
 
 ### Hardware
 
