@@ -327,3 +327,5 @@ message broker written in erlang that also supports multiple messaging protocols
 - [Django REST](https://github.com/encode/django-rest-framework) - [18.4k ⭐] - Written in Python, Django Rest is a powerful and flexible REST API. The efficiency and time to market resembles Rails.
 
 - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1) - A rich framework for building web apps and APIs using the Model-View-Controller design pattern in C# or F#. Number 6 on [TechEmpower Composite Benchmarks](https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite) for web frameworks.
+
+- [Fastify](https://github.com/fastify/fastify) - [15.4k ⭐] - A Node.js web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture.
