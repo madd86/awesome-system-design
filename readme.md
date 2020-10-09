@@ -113,6 +113,8 @@ A collection of videos based on distributed systems.
 
 - [The Easy Way](https://www.youtube.com/channel/UCVZfU1sp66H9d4sdYx4iNkQ) - Up and coming channel with easy to understand videos about Distributed Systems.
 
+- [System Design by SDE Skills](https://www.youtube.com/playlist?list=PLBtMh4xfa9FHSMKKgPZcPfoPbZmND5PC-) - Good resource for people who are preparing for System Design interviews, there are multiple system design mock interviews and deep dives.
+
 ## Advanced
 
 - [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
