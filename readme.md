@@ -257,6 +257,8 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [Nginx](https://www.nginx.com/) - Wait, isn't Nginx a web server? Yes, the open source does support basic level of content switching and request routing. Plus edition supports load balancing, WAF, monitoring, etc.
 
+- [Openresty](https://github.com/openresty/openresty) - Nginx + Lua, perfect combination.
+
 ### Hardware
 
 - [F5](https://www.f5.com/services/resources/glossary/load-balancer) - Robust hardware load balancer option, supporting multiple protocols (IP, TCP, FTP, UDP, HTTP).
@@ -331,6 +333,8 @@ message broker written in erlang that also supports multiple messaging protocols
 - [Play Framework](https://github.com/playframework/playframework) - [11.6k ⭐] - Very fast, high throughput framework written in Scala/Java that is RESTful by default.
 
 - [Flask](https://github.com/pallets/flask) - [51.6k ⭐] - A lightweight Python Microframework for fast prototyping and production. 
+
+- [FastAPI](https://github.com/tiangolo/fastapi) - [22.7k ⭐] - A lightweight Python Microframework inspired in Flask but more modern, using Python async.
 
 - [Django REST](https://github.com/encode/django-rest-framework) - [18.4k ⭐] - Written in Python, Django Rest is a powerful and flexible REST API. The efficiency and time to market resembles Rails.
 
