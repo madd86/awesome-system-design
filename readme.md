@@ -115,6 +115,8 @@ A collection of videos based on distributed systems.
 
 - [System Design by SDE Skills](https://www.youtube.com/playlist?list=PLBtMh4xfa9FHSMKKgPZcPfoPbZmND5PC-) - Good resource for people who are preparing for System Design interviews, there are multiple system design mock interviews and deep dives.
 
+- [System Design by CodeKarle](https://www.youtube.com/watch?v=EpASu_1dUdE&list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - Another great free resource, a list of commonly asked interview questions.
+
 ## Advanced
 
 - [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
