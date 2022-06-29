@@ -88,7 +88,10 @@ Started By Gabriel Leon de Mattos
 
 - [Distributed Systems (3rd Edition)](https://www.distributed-systems.net/index.php/books/ds3/) - [Free 👍] - Great overview of and in-depth introduction to distributed systems. Recommended for intermediate level readers.
 
-- [Akka in Action, Second Edition)](https://www.manning.com/books/akka-in-action-second-edition) - [Paid 💵] - A practical guide to building message-oriented systems with Akka.
+- [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition) - [Paid 💵] - A practical guide to building message-oriented systems with Akka.
+
+- [Designing Microservices](https://www.manning.com/books/designing-microservices) - [Paid 💵] - A book about how to start your microservices projects right.
+
 ---
 
 # Videos
