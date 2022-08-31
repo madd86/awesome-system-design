@@ -92,6 +92,8 @@ Started By Gabriel Leon de Mattos
 
 - [Designing Microservices](https://www.manning.com/books/designing-microservices) - [Paid 💵] - A book about how to start your microservices projects right.
 
+- [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - [Paid 💵] - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions.
+
 ---
 
 # Videos
