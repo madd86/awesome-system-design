@@ -94,6 +94,8 @@ Started By Gabriel Leon de Mattos
 
 - [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - [Paid 💵] - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions.
 
+- [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) - [Paid 💵] - Book about the business and technical foundation you need to create your edge computing strategy.
+
 ---
 
 # Videos
