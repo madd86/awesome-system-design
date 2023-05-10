@@ -96,6 +96,8 @@ Started By Gabriel Leon de Mattos
 
 - [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) - [Paid 💵] - Book about the business and technical foundation you need to create your edge computing strategy.
 
+- [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - [Paid 💵] - Book about planning and designing successful ML applications.
+
 ---
 
 # Videos
