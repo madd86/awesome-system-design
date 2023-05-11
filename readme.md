@@ -87,6 +87,17 @@ Started By Gabriel Leon de Mattos
 - [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/) - [Free 👍] - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
 
 - [Distributed Systems (3rd Edition)](https://www.distributed-systems.net/index.php/books/ds3/) - [Free 👍] - Great overview of and in-depth introduction to distributed systems. Recommended for intermediate level readers.
+
+- [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition) - [Paid 💵] - A practical guide to building message-oriented systems with Akka.
+
+- [Designing Microservices](https://www.manning.com/books/designing-microservices) - [Paid 💵] - A book about how to start your microservices projects right.
+
+- [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - [Paid 💵] - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions.
+
+- [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) - [Paid 💵] - Book about the business and technical foundation you need to create your edge computing strategy.
+
+- [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - [Paid 💵] - Book about planning and designing successful ML applications.
+
 ---
 
 # Videos
