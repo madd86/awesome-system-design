@@ -72,6 +72,8 @@ Started By Gabriel Leon de Mattos
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) - Good article about distributed systems as well as some of the potential tools.
 
+- [A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview) - A comprehensive guide on passing System Design interview.
+
 ---
 
 # Books
@@ -87,6 +89,9 @@ Started By Gabriel Leon de Mattos
 - [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/) - [Free 👍] - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
 
 - [Distributed Systems (3rd Edition)](https://www.distributed-systems.net/index.php/books/ds3/) - [Free 👍] - Great overview of and in-depth introduction to distributed systems. Recommended for intermediate level readers.
+
+- [Machine Learning System Design with end-to-end examples](https://arseny.info/ml_design_book) - [Paid 💵] - A book about Machine Learning System Design. Recommended for intermediate level readers with a basic knowledge of ML.
+
 ---
 
 # Videos
