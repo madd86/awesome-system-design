@@ -54,6 +54,8 @@ Started By Gabriel Leon de Mattos
 
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
 
+- [System Design Newsletter](https://newsletter.systemdesign.one/) - Weekly newsletter on system design.
+
 ## Advanced 
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
