@@ -26,21 +26,21 @@ Started By Gabriel Leon de Mattos
 
 [Tools](#tools)
 
-* [Relational Database](#Relational-Database-Management-System)
-* [NoSQL](#NoSQL)
-* [Distributed File Systems](#Distributed-File-Systems)
-* [Resource Management](#Resource-Management)
-* [Stream Processing](#Stream-Processing)
-* [Message Broker](#Message-Broker)
-* [Load Balancers](#Load-Balancers)
-* [Hadoop Ecosystem](#Hadoop-Ecosystem)
-* [REST Framework](#REST-Framework)
+- [Relational Database](#Relational-Database-Management-System)
+- [NoSQL](#NoSQL)
+- [Distributed File Systems](#Distributed-File-Systems)
+- [Resource Management](#Resource-Management)
+- [Stream Processing](#Stream-Processing)
+- [Message Broker](#Message-Broker)
+- [Load Balancers](#Load-Balancers)
+- [Hadoop Ecosystem](#Hadoop-Ecosystem)
+- [REST Framework](#REST-Framework)
 
 [Bonus](#bonus)
 
 # Articles
 
-## Introduction / Interviews 
+## Introduction / Interviews
 
 - [System Design Primer](https://GitHub.com/donnemartin/system-design-primer) - [109k ⭐] - Awesome compilation of resources, including Anki flashcard decks.
 
@@ -54,7 +54,9 @@ Started By Gabriel Leon de Mattos
 
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
 
-## Advanced 
+- [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
+
+## Advanced
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
 
@@ -62,7 +64,7 @@ Started By Gabriel Leon de Mattos
 
 - [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) - In depth explanation of the fallacies mentioned above.
 
-- [CAP Theorem](https://www.ibm.com/cloud/learn/cap-theorem) - IBM Article about CAP Theorem, Microservices and NoSQL DBs. 
+- [CAP Theorem](https://www.ibm.com/cloud/learn/cap-theorem) - IBM Article about CAP Theorem, Microservices and NoSQL DBs.
 
 - [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) - Good article talking about Microservice architecture as well as its drawbacks.
 
@@ -87,6 +89,7 @@ Started By Gabriel Leon de Mattos
 - [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/) - [Free 👍] - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
 
 - [Distributed Systems (3rd Edition)](https://www.distributed-systems.net/index.php/books/ds3/) - [Free 👍] - Great overview of and in-depth introduction to distributed systems. Recommended for intermediate level readers.
+
 ---
 
 # Videos
@@ -109,7 +112,7 @@ A collection of videos based on distributed systems.
 
 - [System Design Introduction for Interview](https://www.youtube.com/watch?v=UzLMhqg3_Wc) - Tushar's intro to System Design.
 
-- [Distributed Systems](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A) - This is an introductory course in Distributed Systems made by Chris Colohan. He got PhD from Carnegie Mellon, then spent 10 years working at Google building distributed systems. 
+- [Distributed Systems](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A) - This is an introductory course in Distributed Systems made by Chris Colohan. He got PhD from Carnegie Mellon, then spent 10 years working at Google building distributed systems.
 
 - [The Easy Way](https://www.youtube.com/channel/UCVZfU1sp66H9d4sdYx4iNkQ) - Up and coming channel with easy to understand videos about Distributed Systems.
 
@@ -119,7 +122,7 @@ A collection of videos based on distributed systems.
 
 ## Advanced
 
-- [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled. 
+- [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled.
 - [6.824 Distributed Systems by MIT](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) - Graduate level course on distributed systems from MIT (2020).
 - [CSE138 Distributed Systems by UCSC](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) - Undergraduate course on distributed systems from UCSC (2020).
 
@@ -128,7 +131,6 @@ A collection of videos based on distributed systems.
 - A collection of most commonly used tools for distributed systems
 
 ## Relational Database Management System
-
 
 - [MariaDB](https://mariadb.org/) - MariaDB is a fork of MySQL server.
 
@@ -139,7 +141,6 @@ A collection of videos based on distributed systems.
 - [SQLite](https://www.sqlite.org/index.html) - Another widely used database that is built into all mobile phones and most computers.
 
 - [Sql Server](https://www.microsoft.com/en-us/sql-server) - Widely used relational database.
-
 
 ## NoSQL
 
@@ -153,14 +154,13 @@ A collection of videos based on distributed systems.
 
 - [Memcached](https://GitHub.com/memcached/memcached) - [10.2k ⭐] - One of the first in-memory caching database, high performing and multi-threaded.
 
-- [Redis](https://GitHub.com/redis/redis) - [44k ⭐] - Widely used in-memory caching database with many added features such as persistent storage and supporting strings, lists, sets, hashses, streams, bitmaps, etc. 
+- [Redis](https://GitHub.com/redis/redis) - [44k ⭐] - Widely used in-memory caching database with many added features such as persistent storage and supporting strings, lists, sets, hashses, streams, bitmaps, etc.
 
 ### Store (Key-Value)
 
 - [Apple FoundationDB](https://GitHub.com/apple/foundationdb) - [10k ⭐] - Multi-model (many data types in a single database), ACID key-value store. Easily scalable and fault tolerant.
 
 - [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) - Microsoft's globally distributed, multi-model database service. Eastically and independently scale throughput and storage. SQL, MongoDB, Cassandra, Tables, Gremlin, and Spark APIs.
-
 
 ### Document Store
 
@@ -180,7 +180,7 @@ A collection of videos based on distributed systems.
 
 - [Google Bigtable](https://cloud.google.com/bigtable) - Scalable and performant 'NoSQL' database for large analytical and operational workload.
 
-- [Cassandra](https://cassandra.apache.org/) - Facebook-born project very fast, easily scalable, with option to include consistency with each operation. 
+- [Cassandra](https://cassandra.apache.org/) - Facebook-born project very fast, easily scalable, with option to include consistency with each operation.
 
 - [Scylla](https://GitHub.com/scylladb/scylla) - [4.9k ⭐] - 'NoSQL' data store using seastar framework, compatible with Cassandra.
 
@@ -204,7 +204,7 @@ A collection of videos based on distributed systems.
 
 - [Lustre](http://lustre.org/) - File system for computer clusters.
 
-- [CephFS](https://ceph.io/) - Unified, distributed storage system. 
+- [CephFS](https://ceph.io/) - Unified, distributed storage system.
 
 - [GlusterFS](https://www.gluster.org/) - Scale-out NAS file system.
 
@@ -212,7 +212,7 @@ A collection of videos based on distributed systems.
 
 - [XtreemFS](http://www.xtreemfs.org/) - Fault tolerant file system.
 
-## Resource Management 
+## Resource Management
 
 - [Kubernetes](https://kubernetes.io/) - Highly popular way to deploy, manage and automatically scale a cluster of containers on bare-metal or virtual servers.
 
@@ -230,18 +230,18 @@ A collection of videos based on distributed systems.
 
 - [Amazon MQ](https://aws.amazon.com/amazon-mq/) - Open source message broker from Amazon.
 
-- [Apache ActiveMQ](https://activemq.apache.org/) - It's a multi-protocol, java based messaging server. 
+- [Apache ActiveMQ](https://activemq.apache.org/) - It's a multi-protocol, java based messaging server.
 
 - [Apache Kafka](https://kafka.apache.org/) - Widely popular message broker with low latency for data streaming.
 
-- [RabbitMQ](https://www.rabbitmq.com/) - Widely popular lightweight 
-message broker written in erlang that also supports multiple messaging protocols.
+- [RabbitMQ](https://www.rabbitmq.com/) - Widely popular lightweight
+  message broker written in erlang that also supports multiple messaging protocols.
 
 - [IronMQ](https://www.iron.io/mq) - Very fast and highly scalable messaging broker. (not open source)
 
-- [Apache Pulsar](https://pulsar.apache.org/) - Created by yahoo, also highly scalable, low latency, geo-replication and multi-tenacy. 
+- [Apache Pulsar](https://pulsar.apache.org/) - Created by yahoo, also highly scalable, low latency, geo-replication and multi-tenacy.
 
-- [Kestrel](https://github.com/twitter-archive/kestrel) - Written in Scala and speaks the memcached protocol. It works much like Kafka. 
+- [Kestrel](https://github.com/twitter-archive/kestrel) - Written in Scala and speaks the memcached protocol. It works much like Kafka.
 
 - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) - A fully managed enterprise integration message broker.
 
@@ -251,7 +251,7 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [SeeSaw](https://GitHub.com/google/seesaw) - [5.1k ⭐] - Used by Google, developed in Go, linux-based virtual load balancer server.
 
-- [HAProxy](https://www.haproxy.org/) - Widely popular option, provides high-availability, proxy, TCP/HTTP load balancing. Used by Reddit, Imgur, MaxCDN, GitHub, AirBNB. 
+- [HAProxy](https://www.haproxy.org/) - Widely popular option, provides high-availability, proxy, TCP/HTTP load balancing. Used by Reddit, Imgur, MaxCDN, GitHub, AirBNB.
 
 - [Zevenet](https://www.zevenet.com/products/community/#repository) - Supports L3, L4 and L7. Easy install with a docker repo. Supports advanced health-check monitorining.
 
@@ -281,24 +281,25 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [Azure Load Balancing](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) - Popular choice for Microsoft's Azure customers. Supports internal and external traffics, ipv6, monitorining and the standard load balancing set of features.
 
-##  Hadoop Ecosystem
+## Hadoop Ecosystem
 
 <img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/hadoop-ecosystem.png" align="center" width="330">
 
 ### Dashboard
+
 - [Ambari](https://ambari.apache.org/) - Dashboard that integrates most of hadoop related technologies for easy management and executions.
 
 ### Data Ingestion
 
 - [Sqoop](https://sqoop.apache.org/) - Efficiently transfer data between Hadoop and structured datastores such as relational databases.
 
-- [Flume](https://flume.apache.org/) - Distributed, highly available and efficient in collecting, aggregating and moving large amounts of log data. 
+- [Flume](https://flume.apache.org/) - Distributed, highly available and efficient in collecting, aggregating and moving large amounts of log data.
 
 - [Apache Kafka](https://kafka.apache.org/) - Widely popular message broker with low latency for data streaming.
 
 ### Workflow Scheduler
 
-- [Oozie](https://oozie.apache.org/) - Create workflows in xml to execute jobs (from other hadoop-ecosystem applications) in steps, allows for parallel execution as well. 
+- [Oozie](https://oozie.apache.org/) - Create workflows in xml to execute jobs (from other hadoop-ecosystem applications) in steps, allows for parallel execution as well.
 
 ### Query
 
@@ -308,9 +309,9 @@ message broker written in erlang that also supports multiple messaging protocols
 ### Processing
 
 - [Tez](https://tez.apache.org/) - Solves a similar problem to Spark and MapReduce, it's more efficient than MapReduce because it calculates the most efficient way of doing it.
-- [Map Reduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - MapReduce, as the name implies, maps data and reduce the results. 
-- [Spark](https://spark.apache.org/) - Powerful data processing to not only process data like Tez (and MapReduce), it can process streams of data in real time, apply regression analysis algorithms in ML and much more. 
-- [Apex](https://apex.apache.org/) - *Retired project, it's a YARN-native platform that unifies stream and batch processing. 
+- [Map Reduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - MapReduce, as the name implies, maps data and reduce the results.
+- [Spark](https://spark.apache.org/) - Powerful data processing to not only process data like Tez (and MapReduce), it can process streams of data in real time, apply regression analysis algorithms in ML and much more.
+- [Apex](https://apex.apache.org/) - \*Retired project, it's a YARN-native platform that unifies stream and batch processing.
 
 ### DB
 
@@ -318,9 +319,8 @@ message broker written in erlang that also supports multiple messaging protocols
 
 ### Resource Management
 
-- [YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - 'Yet Another Resource Negotiator', works like a kernel to manage computer resources across the clusters. 
-- [MESOS](http://mesos.apache.org/) - Works like a Linux Kernel by managing CPU, memory, storage and other resources across the cluster. 
-
+- [YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - 'Yet Another Resource Negotiator', works like a kernel to manage computer resources across the clusters.
+- [MESOS](http://mesos.apache.org/) - Works like a Linux Kernel by managing CPU, memory, storage and other resources across the cluster.
 
 ## REST Framework
 
@@ -334,7 +334,7 @@ message broker written in erlang that also supports multiple messaging protocols
 
 - [Play Framework](https://github.com/playframework/playframework) - [11.6k ⭐] - Very fast, high throughput framework written in Scala/Java that is RESTful by default.
 
-- [Flask](https://github.com/pallets/flask) - [51.6k ⭐] - A lightweight Python Microframework for fast prototyping and production. 
+- [Flask](https://github.com/pallets/flask) - [51.6k ⭐] - A lightweight Python Microframework for fast prototyping and production.
 
 - [FastAPI](https://github.com/tiangolo/fastapi) - [22.7k ⭐] - A lightweight Python Microframework inspired in Flask but more modern, using Python async.
 
