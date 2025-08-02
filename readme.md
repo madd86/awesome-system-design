@@ -90,6 +90,8 @@ Started By Gabriel Leon de Mattos
 
 - [Distributed Systems (3rd Edition)](https://www.distributed-systems.net/index.php/books/ds3/) - [Free 👍] - Great overview of and in-depth introduction to distributed systems. Recommended for intermediate level readers.
 
+- [Safe by Design](https://github.com/SanQri/safe-by-design/) - [Free 👍] - Great book on enforcing code correctness by design.
+
 ---
 
 # Videos
