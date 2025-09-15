@@ -90,6 +90,8 @@ Started By Gabriel Leon de Mattos
 
 - [Distributed Systems (3rd Edition)](https://www.distributed-systems.net/index.php/books/ds3/) - [Free 👍] - Great overview of and in-depth introduction to distributed systems. Recommended for intermediate level readers.
 
+- [Think Distributed Systems](https://www.manning.com/books/think-distributed-systems) - [Free with subscription 👍] - Breaks down this wide-ranging topic into clear categories like transactions, message processing, and distributed consensus.
+
 ---
 
 # Videos
