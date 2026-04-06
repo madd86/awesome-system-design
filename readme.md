@@ -132,6 +132,7 @@ A collection of videos based on distributed systems.
 
 - A collection of most commonly used tools for distributed systems
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for distributed system design, multi-agent orchestration, and automated infrastructure management. MIT licensed.
 ## Relational Database Management System
 
 - [MariaDB](https://mariadb.org/) - MariaDB is a fork of MySQL server.
