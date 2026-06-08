@@ -56,6 +56,8 @@ Started By Gabriel Leon de Mattos
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
 
+- [System Design Interview Questions on PracHub](https://prachub.com/categories/system-design) - Curated bank of system design interview questions asked at real companies, with community discussion and worked solutions.
+
 ## Advanced
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
