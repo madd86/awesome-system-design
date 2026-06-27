@@ -50,6 +50,8 @@ Started By Gabriel Leon de Mattos
 
 - [System Design in Software Development](https://medium.com/the-andela-way/system-design-in-software-development-f360ce6fcbb9) - Basic article on the topics of system design and architecture.
 
+- [SystemCraft](https://systemcraft.in) - Free system design interview prep with 18 HLD problems, architecture diagrams, Bad/Good/Great deep dives, and technology breakdowns. Covers Uber, Zomato, Netflix, Rate Limiter, and more.
+
 - [System Design](https://www.interviewbit.com/courses/system-design/) - Introductory interview preparation resources.
 
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
