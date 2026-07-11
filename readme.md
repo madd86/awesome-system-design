@@ -47,6 +47,7 @@ Started By Gabriel Leon de Mattos
 - [System Design Interview Questions - Concepts you should know](https://www.freecodecamp.org/news/systems-design-for-interviews/) - A curated list of topics to introduce you to system design.
 
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) - [Paid 💵] - Grokking System Design preparation is one of the most talked about course. The best thing about it is the design of applications it suggests rather than explanations of what each tool is supposed to do.
+- [TheCodeForge System Design](https://thecodeforge.io/system-design/complete-system-design-guide/) - Complete system design guide with real-world architectures (Netflix, Uber, Twitter), scalability patterns, and interview prep.
 
 - [System Design in Software Development](https://medium.com/the-andela-way/system-design-in-software-development-f360ce6fcbb9) - Basic article on the topics of system design and architecture.
 
