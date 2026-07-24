@@ -58,6 +58,8 @@ Started By Gabriel Leon de Mattos
 
 - [System Design Capacity Estimator](https://amanksingh.com/tools/system-design-capacity-estimator) - A free tool for the back-of-the-envelope estimation step of an interview: turns daily active users into average and peak QPS, storage growth, and read bandwidth.
 
+- [Rate Limiter Designer](https://amanksingh.com/tools/rate-limiter-designer) - A free tool that turns a requests-per-period limit into token-bucket parameters (capacity and refill rate), with notes on the token bucket vs fixed vs sliding window trade-off common in interviews.
+
 ## Advanced
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
