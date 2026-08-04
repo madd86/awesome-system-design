@@ -131,6 +131,7 @@ A collection of videos based on distributed systems.
 # Tools
 
 - A collection of most commonly used tools for distributed systems
+- [flow-chart.io](https://flow-chart.io/?utm_source=awesome-system-design&utm_medium=referral&utm_campaign=first_customer&utm_content=directory) — AI diagram generator that outputs fully editable scene graphs. Generate C4 model diagrams (all 4 levels), cloud architecture, ERD, and sequence diagrams from plain-English prompts. Every node remains selectable and editable after generation.
 
 ## Relational Database Management System
 
