@@ -55,6 +55,7 @@ Started By Gabriel Leon de Mattos
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
+- [Frontend System Design Checklist](https://frontendatlas.com/guides/system-design-blueprint/checklist) - Free structured checklist covering requirements, architecture, state, API contracts, accessibility, performance, observability, and trade-offs for frontend system design interviews.
 
 ## Advanced
 
