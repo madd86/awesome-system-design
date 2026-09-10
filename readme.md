@@ -56,6 +56,8 @@ Started By Gabriel Leon de Mattos
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
 
+- [Wyrcan Engineering Roadmap](https://github.com/Wyrcan-io/roadmap) - Text-first 12-stage engineering curriculum grounded in Designing Data-Intensive Applications (DDIA), Linux internals, and production cloud architecture.
+
 ## Advanced
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
