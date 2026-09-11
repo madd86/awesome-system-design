@@ -55,6 +55,7 @@ Started By Gabriel Leon de Mattos
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
+- [InterviewLegend](https://interviewlegend.com/guides/system-design) - system design interviews broken down company by company, based on first-hand interview reports
 
 ## Advanced
 
