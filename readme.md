@@ -56,6 +56,8 @@ Started By Gabriel Leon de Mattos
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
 
+- [System Design Atlas](https://atlas-sysdes.vercel.app) - Concept modules, technology pages and worked designs, each with interactive architecture diagrams and the trade-offs spelled out.
+
 ## Advanced
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
