@@ -130,6 +130,10 @@ A collection of videos based on distributed systems.
 
 # Tools
 
+## Architecture Modeling & Simulation
+
+* [GraphFlow](https://graph-flow-virid.vercel.app) - Interactive 60 FPS distributed systems simulator with hop-by-hop queuing physics, chaos fault injection, FinOps multi-cloud cost estimation, and Terraform/Kubernetes/Mermaid export. ([GitHub](https://github.com/Hanubaki/GraphFlow))
+
 - A collection of most commonly used tools for distributed systems
 
 ## Relational Database Management System
