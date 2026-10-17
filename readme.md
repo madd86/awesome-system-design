@@ -56,6 +56,8 @@ Started By Gabriel Leon de Mattos
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
 
+- [Delta Byte Tutorials](https://app.tbx.ai/tutorials) - Interview-focused tutorials on system design, databases, networking and streaming systems. 122 tutorials are free to read without sign-in, and the rest need a paid plan.
+
 ## Advanced
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
