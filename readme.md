@@ -122,6 +122,8 @@ A collection of videos based on distributed systems.
 
 - [System Design by CodeKarle](https://www.youtube.com/watch?v=EpASu_1dUdE&list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - Another great free resource, a list of commonly asked interview questions.
 
+- [ML and LLM System Design for AI Engineer Interviews](https://github.com/landedjobs/awesome-ai-engineer-interview/blob/main/content/07-ml-and-llm-system-design.md) - Open-source guide to ML and LLM system design interviews: a reusable rubric, token and cost estimation, latency budgets, and worked designs for a RAG chatbot, LLM inference at scale and a support-ticket agent.
+
 ## Advanced
 
 - [The evolution of Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4) - Overview of how Reddit system design scaled.
