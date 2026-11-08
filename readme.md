@@ -108,6 +108,8 @@ A collection of videos based on distributed systems.
 
 - [Google Preparation Guide](https://www.youtube.com/watch?v=Gg318hR5JY0) - A quick video explaining how they interview.
 
+- [Practick - System Design Interview Questions](https://practick.io/system-design-interview-questions) - 132 system design questions, each with the prompt, what it tests and the clarifying questions to ask.
+
 - [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/) - YouTube channel focussed on content specific to system design interviews, with detailed explanation of a variety of problems.
 
 - [Intro to Architecture and System Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) - A youtube video with Jackson Gabbard with good info about system design interviews.
