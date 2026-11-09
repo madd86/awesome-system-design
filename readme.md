@@ -348,4 +348,4 @@ A collection of videos based on distributed systems.
 
 ## Architecture Design
 
-- [Delta AI](https://app.delta-ai.dev) - Architecture-first backend generator: describe a product, get a service architecture and one pull request per service in your GitHub org. Free first architecture.
+- [Delta AI](https://app.delta-ai.dev) - Architecture-first backend generator: describe a product and it designs the system first — domains, service boundaries and contracts — then writes a specification per service and implements it spec-driven, opening one pull request per service in your GitHub org. Free first architecture.
