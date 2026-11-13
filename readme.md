@@ -56,6 +56,8 @@ Started By Gabriel Leon de Mattos
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
 
+- [AI lab system design interview questions on Land the Lab](https://landthelab.com) - [Free + Paid 💵] - System design and coding questions candidates report from OpenAI, Anthropic, Google DeepMind and 50 other companies, by round and last-asked date, with worked answers and an AI coach that grades your attempt.
+
 ## Advanced
 
 - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing) - Wikipedia article broadening the view of distributed system design.
