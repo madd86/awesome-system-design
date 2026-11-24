@@ -35,6 +35,7 @@ Started By Gabriel Leon de Mattos
 - [Load Balancers](#Load-Balancers)
 - [Hadoop Ecosystem](#Hadoop-Ecosystem)
 - [REST Framework](#REST-Framework)
+- [Security](#Security)
 
 [Bonus](#bonus)
 
@@ -345,3 +346,7 @@ A collection of videos based on distributed systems.
 - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1) - A rich framework for building web apps and APIs using the Model-View-Controller design pattern in C# or F#. Number 6 on [TechEmpower Composite Benchmarks](https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite) for web frameworks.
 
 - [Fastify](https://github.com/fastify/fastify) - [15.4k ⭐] - A Node.js web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture.
+
+## Security
+
+- [Camada](https://www.camada.app/) - Keeps bad actors out of an app with logins, signups or a checkout. An SDK middleware reports request events, an AI analyst reviews whole sessions and writes a verdict with the evidence, and the app enforces the resulting blocklist in memory. MIT licensed SDKs for Node, Python, Go, PHP, Ruby, Java and .NET.
