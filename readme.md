@@ -26,6 +26,7 @@ Started By Gabriel Leon de Mattos
 
 [Tools](#tools)
 
+- [Architecture Modeling & Simulation](#architecture-modeling--simulation)
 - [Relational Database](#Relational-Database-Management-System)
 - [NoSQL](#NoSQL)
 - [Distributed File Systems](#Distributed-File-Systems)
@@ -132,6 +133,10 @@ A collection of videos based on distributed systems.
 # Tools
 
 - A collection of most commonly used tools for distributed systems
+
+## Architecture Modeling & Simulation
+
+- [ECLYPSE](https://github.com/eclypse-org/eclypse) - Python framework for simulating and emulating cloud-edge applications to evaluate service placement strategies under changing infrastructure conditions.
 
 ## Relational Database Management System
 
