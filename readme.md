@@ -75,6 +75,8 @@ Started By Gabriel Leon de Mattos
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) - Good article about distributed systems as well as some of the potential tools.
 
+- [Developer Handbook: Distributed Systems & Low-Level Internals](https://github.com/isihussain/developer-handbook) - Comprehensive cheat sheets and engineering guides covering consensus algorithms, consistent hashing, caching hierarchies, and fault-tolerant distributed storage.
+
 ---
 
 # Books
